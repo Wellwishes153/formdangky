@@ -1,0 +1,28 @@
+h1 { color: white;
+  font-size: 60px;
+  text-align: center;
+}
+
+html {
+  background-color: blue;
+}
+body {
+  background-color: blue;
+}
+
+tr {
+  color: white;
+}
+.auth-form {
+  width: 600px;
+ 
+}
+.auth-form_form {
+ 
+}
+.auth-form_input {
+  width: 80%;
+  height: 50px;
+  margin-top: 20px;
+  padding: 0;
+}
